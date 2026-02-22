@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
 ![image (6)](https://github.com/user-attachments/assets/0a103290-e151-4486-a58d-25f979c34c52)
 ![Panda_container_sc3](https://github.com/user-attachments/assets/0a95e366-840f-43ed-bb6f-397b085583da)
 
-I2V - Image to Video [Using Moji1 and Normal Video Editor]
+I2V - Image to Video [Using HaiLuo and Microsoft Video Editor]
 
 https://github.com/user-attachments/assets/e4b47add-5458-4351-b396-34e9814b48be
 
