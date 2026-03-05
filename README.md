@@ -79,6 +79,6 @@ https://github.com/user-attachments/assets/e4b47add-5458-4351-b396-34e9814b48be
 
 
 
-**Other Sample**
+**Prompt Sample**
 [Sample1.pdf](https://github.com/user-attachments/files/19902634/Sample1.pdf)
 [View Sample1 pdf](https://github.com/user-attachments/files/19902634/Sample1.pdf)
