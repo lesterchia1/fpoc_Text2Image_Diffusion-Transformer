@@ -46,7 +46,7 @@ PixArt-α is a Transformer-based T2I diffusion model whose image generation qual
 Picture
 ![Real_Beauty](https://github.com/user-attachments/assets/ea13d6d8-d953-4848-bf08-6269c946b28b)
 
-I2V - Image to Video utilizing Sand ai - Mogi1 (RAW)
+I2V - Image to Video utilizing Sand ai - Magi1 (RAW)
 
 ![Raw_video](https://github.com/user-attachments/assets/2d30e6c5-7452-41c1-86f2-8d4258742de1)
 
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 **Picture:** 
 ![Image](https://github.com/user-attachments/assets/e26f05e2-273d-4fac-b514-95abbcf39c5b)
 
-I2V - Image to Video [Using Moji1 and Normal Video Editor]
+I2V - Image to Video [Using Maji1 and Normal Video Editor]
 
 https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
 
